@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Probabilistic Implicit Scene Completion"
+date:   2022-06-12 22:20:59 +00:00
+image: /images/cgca.gif
+categories: research
+author: "Dongsu Zhang"
+venue: "ICLR"
+authors: "<strong>Dongsu Zhang</strong>, Changwoon Choi, Inbum Park, Young Min Kim"
+code: https://github.com/96lives/gca
+arxiv: https://openreview.net/forum?id=rABUmU3ulQh
+---
+
+We tackle the problem of probabilistic scene completion for the first time by extending the Generative Cellular Automata to produce continuous 3D surface.

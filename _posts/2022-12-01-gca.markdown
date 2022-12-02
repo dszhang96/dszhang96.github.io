@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Learning to Generate 3D Shapes with Generative Cellular Automata"
+date:   2021-06-12 22:20:59 +00:00
+image: /images/gca.gif
+categories: research
+author: "Dongsu Zhang"
+subtitle: "Invited Workshop Talk"
+venue: "ICLR"
+authors: "<strong>Dongsu Zhang</strong>, Changwoon Choi, Jeonghwan Kim, Young Min Kim"
+code: https://github.com/96lives/gca
+arxiv: https://openreview.net/forum?id=rABUmU3ulQh
+---
+
+We present a Markov chain based 3D generative model named Generative Cellular Automata, which is scalable for producing high-resolution voxels.  
